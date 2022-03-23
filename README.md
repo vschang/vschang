@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Hi, I'm Valerie Chang 💫</h1>
 <h3 align="center">🥳 A Passionate Full-Stack Web Developer from Austin, Texas 🤠</h3>
 
-<p align='center'>
+<p align="center">
   
 🏄🏻‍♀️ I’m currently working on Session (https://www.sessionapp.xyz/) 
 
