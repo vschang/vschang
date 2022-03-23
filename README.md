@@ -2,13 +2,11 @@
 <h3 align="center">🥳 A Passionate Full-Stack Web Developer from Austin, Texas 🤠</h3>
 
 <p align="center">
-  
 🏄🏻‍♀️ I’m currently working on Session (https://www.sessionapp.xyz/) 
 
 💥 All of my projects are available at [troopl.com/valeriechang0](troopl.com/valeriechang0)
 
 🕺🏻 How to reach me **valeriechang0@gmail.com**
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
