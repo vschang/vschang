@@ -3,9 +3,13 @@
 
 <p align="center">
 🏄🏻‍♀️ I’m currently working on Session (https://www.sessionapp.xyz/) 
+</p>
 
+<p align="center">
 💥 All of my projects are available at [troopl.com/valeriechang0](troopl.com/valeriechang0)
-
+ </p>
+  
+<p align="center">
 🕺🏻 How to reach me **valeriechang0@gmail.com**
 </p>
 
