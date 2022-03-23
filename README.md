@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Valerie Chang</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer from Austin, Texas</h3>
+<h1 align="center">🌸 Hi, I'm Valerie Chang 💫</h1>
+<h3 align="center">🥳 A Passionate Full-Stack Web Developer from Austin, Texas 🤠</h3>
 
-- 🔭 I’m currently working on [Session](https://www.sessionapp.xyz/)
+🏄🏻‍♀️ I’m currently working on [Session](https://www.sessionapp.xyz/) 
 
-- 👨‍💻 All of my projects are available at [troopl.com/valeriechang0](troopl.com/valeriechang0)
+💥 All of my projects are available at [troopl.com/valeriechang0](troopl.com/valeriechang0)
 
-- 📫 How to reach me **valeriechang0@gmail.com**
+🕺🏻 How to reach me **valeriechang0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
