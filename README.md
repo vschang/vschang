@@ -1,16 +1,21 @@
-<h1 align="center">🌸 Hi, I'm Valerie Chang 💫</h1>
-<h2 align="center">🥳 A Passionate Full-Stack Web Developer from Austin, Texas 🤠</h2>
+<h1 align="center">⚡️ I'm Valerie Chang 💫</h1>
+<h2 align="center">🥳 A Full-Stack Web Developer from Austin, Texas 🤠</h2>
+<h3 align="center">🌍 As a former public school teacher I'm interested in EdTech 🪐</h3>
 
 <h3 align="left">
-🏄🏻‍♀️ I’m currently working on Session (https://www.sessionapp.xyz/) 
+ 🧠 I’m currently working on v 2.0 of <a href="https://www.metcog.xyz/" target="_blank">MetCog</a>
 </h3>
 
 <h3 align="left">
- 💥 All of my projects are available in my <a href="https://www.valeriechang.online/" target="_blank">portfolio</a>
+ 🎧 I'm also contributing to the productivity startup <a href="https://www.audemic.app/" target="_blank">Audemic</a>
+</h3>
+
+<h3 align="left">
+ 💥 Check out all my projects in my <a href="https://www.valeriechang.online/" target="_blank">portfolio</a>
  </h3>
   
 <h3 align="left">
-🕺🏻 How to reach me *valeriechang0@gmail.com*
+🕺🏻 Reach out if you'd like to collaborate! *valeriechang0@gmail.com*
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
