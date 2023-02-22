@@ -6,7 +6,7 @@
 </h3>
 
 <h3 align="left">
-💥 All of my projects are available at (troopl.com/valeriechang0)
+ 💥 All of my projects are available in my <a href="https://www.valeriechang.online/" target="_blank">portfolio</a>
  </h3>
   
 <h3 align="left">
