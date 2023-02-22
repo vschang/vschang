@@ -1,6 +1,6 @@
 <h1 align="center">⚡️ I'm Valerie Chang 💫</h1>
-<h2 align="center">🥳 A Full-Stack Web Developer from Austin, Texas 🤠</h2>
-<h3 align="center">🌍 As a former public school teacher I'm interested in EdTech 🪐</h3>
+<h2 align="center">💻 A Full-Stack Web Developer from Austin, Texas 🤠</h2>
+<h3 align="center">🪐 As a former public school teacher I'm interested in EdTech 📚</h3>
 
 <h3 align="left">
  🧠 I’m currently working on v 2.0 of <a href="https://www.metcog.xyz/" target="_blank">MetCog</a>
@@ -15,7 +15,7 @@
  </h3>
   
 <h3 align="left">
-🕺🏻 Reach out if you'd like to collaborate! *valeriechang0@gmail.com*
+🕺🏻 Reach out if you'd like to collaborate! <a href="valeriechang0@gmail.com">valeriechang0@gmail.com</a>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
