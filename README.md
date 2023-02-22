@@ -3,11 +3,11 @@
 <h3 align="center">🪐 As a former public school teacher I'm interested in EdTech 📚</h3>
 
 <h3 align="left">
- 🧠 I’m currently working on v 2.0 of <a href="https://www.metcog.xyz/" target="_blank">MetCog</a>
+ 🧠 I’m currently working on V2.0 of <a href="https://www.metcog.xyz/" target="_blank">MetCog</a>
 </h3>
 
 <h3 align="left">
- 🎧 I'm also contributing to the productivity startup <a href="https://www.audemic.app/" target="_blank">Audemic</a>
+ 🎧 I've also been contributing to the productivity startup <a href="https://www.audemic.app/" target="_blank">Audemic</a>
 </h3>
 
 <h3 align="left">
