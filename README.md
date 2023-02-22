@@ -1,4 +1,4 @@
-<h1 align="center">⚡️ I'm Valerie Chang 💫</h1>
+<h1 align="center">⚡️ I'm Valerie Chang 🌵</h1>
 <h2 align="center">💻 A Full-Stack Web Developer from Austin, Texas 🤠</h2>
 <h3 align="center">🪐 As a former public school teacher I'm interested in EdTech 📚</h3>
 
